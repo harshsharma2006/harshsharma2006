@@ -1,4 +1,6 @@
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/5e523b34-fd5a-4d3f-b9dc-99a94ffb9fcb" />
 # Hi 👋, I'm Harsh Sharma
+![Uploading image.png…]()
 
 ### B.Tech Data Science Student | AI & Data Analytics Enthusiast
 
