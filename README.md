@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi 👋, I'm Harsh Sharma
 
-<!--
-**harshsharma2006/harshsharma2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Data Science Student | AI & Data Analytics Enthusiast
 
-Here are some ideas to get you started:
+🚀 Passionate about Data Science, Machine Learning, Generative AI, and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+* 🎓 B.Tech in Data Science (2024–2028) at Lingaya's Vidyapeeth
+* 📊 Former Data Analyst Intern at AISHWI TECHNOLOGIES
+* 🤖 Built an AI Video Assistant using RAG, LLMs, LangChain, ChromaDB, and OpenAI Whisper
+* 🌱 Currently learning Machine Learning, Generative AI, and Data Engineering
+* 🎯 Interested in Data Science, AI/ML, Analytics, and Software Development
+* 📍 Faridabad, Haryana, India
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+Python | SQL | C++
+
+### Data Science & AI
+
+Pandas | NumPy | Data Analytics | Data Visualization | Machine Learning | NLP | RAG | LLMs
+
+### Databases
+
+MySQL | NoSQL | ChromaDB
+
+### Tools & Technologies
+
+Git | GitHub | Streamlit | VS Code | Excel | LangChain | Hugging Face
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 AI Video Assistant
+
+AI-powered application that analyzes YouTube and local videos using Whisper, LangChain, ChromaDB, and LLMs.
+
+### 🏦 Bank Management System
+
+Python-based banking application implementing OOP, file handling, and exception handling.
+
+### 📋 Biometric Attendance System
+
+Automated attendance tracking system with secure database integration.
+
+---
+
+## 🏆 Certifications
+
+* NPTEL Data Analytics with Python (Elite)
+* NPTEL Cloud Computing
+* NPTEL Enhancing Soft Skills & Personality
+* Cisco Data Analytics Essentials
+* Advanced SQL for Data Scientists
+* Advanced Python
+* EY & Microsoft AI Skills Passport
+
+---
+
+## 📫 Connect With Me
+
+🌐 Portfolio: https://harsh-sharma-portfolio-up.netlify.app
+
+💼 LinkedIn: https://linkedin.com/in/harsh-sharma8377
+
+💻 GitHub: https://github.com/harshsharma2006
+
+📧 Email: [harshsharmashar8377@gmail.com](mailto:harshsharmashar8377@gmail.com)
+
+---
+
+⭐ Always learning, building, and exploring AI-powered solutions.
